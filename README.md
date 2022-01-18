@@ -1,4 +1,6 @@
 # TugbesTKC_145-157-
+Dataset yang digunakan pada penelitian ini adalah CIFAR-100
+link : https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz
 
 # Contributors
 1. Muhammad Farhan Anwari 201810370311145
